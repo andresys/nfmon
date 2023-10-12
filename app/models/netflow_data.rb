@@ -1,0 +1,2 @@
+class NetflowData < ApplicationRecord
+end

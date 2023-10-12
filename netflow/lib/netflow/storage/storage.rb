@@ -1,0 +1,2 @@
+class Netflow
+end
